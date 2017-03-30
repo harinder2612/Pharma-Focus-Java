@@ -2,12 +2,12 @@
 Java Application of Pharma Focus is a Healthcare and Medicine platform, where people can order medicines online and local pharmacists can signup and sell medicines. I have used Netbeans Ide for code generation and Mysql database to store relational data.
 
 # Features:
-* ### Order Medicines
-* ### Become Online Seller Easily
-* ### Maintain Medicine Availability Log
-* ### Upload Prescriptions
-* ### Add Note to the Prescription
-* ### eSellers can use 3rd party Delivery options
+* #### Order Medicines
+* #### Become Online Seller Easily
+* #### Maintain Medicine Availability Log
+* #### Upload Prescriptions
+* #### Add Note to the Prescription
+* #### eSellers can use 3rd party Delivery options
 
 # Screenshots:
 ![1](https://cloud.githubusercontent.com/assets/22996001/24496055/d31355f8-1554-11e7-8636-66149d46f63a.png)
